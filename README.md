@@ -10,6 +10,9 @@
 <p align="left"> 
 
   <a> 
+    <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+  </a> 
+  <a> 
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?logo=Typescript&logoColor=black">
   </a> 
   &emsp;
